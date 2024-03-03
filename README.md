@@ -34,4 +34,4 @@ Building Dreams - One Commit at a Time
 </p>
 
 
-<a href="https://github.com/triplegdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triplegdev&langs_count=10&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/triplegdev" align="left"><img src="https://github-readme-stats-zeta-mocha.vercel.app/api/top-langs/?username=triplegdev&layout=compact&theme=light&card_width=500" alt="Most Used Languages" /></a>
