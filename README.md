@@ -1,6 +1,6 @@
 Software Engineer
 -----------------
-Pushing Pixels, Forging Features, Building Dreams - One Commit at a Time
+Building Dreams - One Commit at a Time
 
 * 🌍 Tri-state developer (NY,NJ,CT)
 * 🧠 I'm learning Django
