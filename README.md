@@ -3,7 +3,7 @@ Software Engineer
 Building Dreams - One Commit at a Time
 
 * 🌍 Located in the New York Metropolitan Area
-* 🧠 I'm learning Django
+* 🧠 Currently learning Django
 * 🤝 I'm open to collaborating on any interesting projects
 <!-- * 📫 You can contact me at [triplegdev@gmail.com](mailto:triplegdev@gmail.com) -->
 
