@@ -34,4 +34,4 @@ Building Dreams - One Commit at a Time
 </p>
 
 
-<a href="https://github.com/triplegdev" align="left"><img src="https://github-readme-stats-zeta-mocha.vercel.app/api/top-langs/?username=triplegdev&layout=compact&theme=light&card_width=500" alt="Most Used Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplegdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
