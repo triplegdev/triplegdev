@@ -5,7 +5,7 @@ Building Dreams - One Commit at a Time
 * 🌍 Located in the New York Metropolitan Area
 * 🧠 Currently learning Django
 * 🤝 Open to collaborating on any interesting projects
-<!-- * 📫 You can contact me at [triplegdev@gmail.com](mailto:triplegdev@gmail.com) -->
+* 📫 You can contact me at [tony@buildwithme.tech](mailto:tony@buildwithme.tech)
 
 ### Skills
 
@@ -27,8 +27,8 @@ Building Dreams - One Commit at a Time
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/sequelize-colored.svg" width="36" height="36" alt="Sequelize" /></a>
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/sqlalchemy-colored.svg" width="36" height="36" alt="SQLAlchemy" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VSCode" /></a>
