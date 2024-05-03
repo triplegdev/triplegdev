@@ -3,7 +3,7 @@ Software Engineer
 Building Dreams - One Commit at a Time
 
 * 🌍 Located in the New York Metropolitan Area
-* 🧠 Currently learning Django
+* 🧠 Always learning
 * 🤝 Open to collaborating on any interesting projects
 * ⚙️ Connect with me at [buildwithme.tech](https://buildwithme.tech/)
 <!-- * 📫 You can contact me at [tony@buildwithme.tech](mailto:tony@buildwithme.tech) -->
