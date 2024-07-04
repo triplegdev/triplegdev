@@ -41,4 +41,4 @@ Building Dreams - One Commit at a Time
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplegdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplegdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
