@@ -10,7 +10,7 @@ Building Dreams - One Commit at a Time
 
 ### Skills
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,7 +39,7 @@ Building Dreams - One Commit at a Time
 <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VSCode" /></a> -->
 <!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
-</p>
+</p> -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplegdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
