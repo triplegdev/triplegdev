@@ -1,13 +1,13 @@
 Building Dreams - One Commit at a Time
 
 -----------------
-* 🌍 Located in the New York Metropolitan Area
+<!-- * 🌍 Located in the New York Metropolitan Area -->
 * 🧠 Always learning
 * 🤝 Open to collaborating on any interesting projects
 <!-- * ⚙️ Connect with me at [buildwithme.tech](https://buildwithme.tech/) -->
 <!-- * 📫 You can contact me at [tony@buildwithme.tech](mailto:tony@buildwithme.tech) -->
 
-
+<p> <i>Learn → Build → Break → Improve → Repeat.</i> </p>
 
 <!-- <p align="left">
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/triplegdev/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
